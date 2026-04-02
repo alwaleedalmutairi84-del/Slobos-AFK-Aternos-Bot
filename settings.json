@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "walleed5703-m9x8.aternos.me:62408",
+    "ip": "gibbon.aternos.host:62408",
     "port": 62408,
     "version": "",
     "try-creative": false
